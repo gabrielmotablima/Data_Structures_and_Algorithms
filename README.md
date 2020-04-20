@@ -6,3 +6,5 @@
   - Data Structures and Algorithms:
     - Data Structures
     - Sorting Algorithms
+    - Graph Algorithms
+    - Search Algorithms
