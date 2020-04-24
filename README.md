@@ -6,13 +6,16 @@
   - Data Structures and Algorithms:
     - Data Structures
       - Arrays
+      - Stack
+      - Queue
+      - Heap
       - Trees
         - Binary Tree
         - Red-Black Tree
         - B Tree
       - Linked Lists
-      - Stack
-      - Queue
+      - Graphs
+      - Hashing
     - Sorting Algorithms
     - Graph Algorithms
     - Search Algorithms
