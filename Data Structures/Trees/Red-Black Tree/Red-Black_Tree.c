@@ -9,6 +9,7 @@ typedef char color;
 
 typedef struct binaryTree {
 	type value;
-  color nodeColor;
+	color nodeColor;
 	struct binaryTree * left, * right;
 } binTree;
+
